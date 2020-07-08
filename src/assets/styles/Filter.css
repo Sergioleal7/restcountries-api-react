@@ -1,0 +1,14 @@
+.Filter select {
+    height: 50px; 
+    width: 100%;
+    text-align: right;
+}
+.Filter select option {
+    font-weight: 600;
+}
+
+@media (max-width: 375px) {
+    .Filter select {
+        width: 50%;
+    }
+  }

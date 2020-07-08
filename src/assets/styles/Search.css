@@ -1,0 +1,16 @@
+.Search {
+    margin: 0;
+    padding: 0;
+}
+.Search__form input {
+    height: 50px;
+    width: 200%;
+}
+
+
+@media (max-width: 375px) {
+    .Search__form input {
+        height: 50px;
+        width: 100%;
+    }
+  }
