@@ -18,6 +18,9 @@
 .Navbar a:hover {
     text-decoration: none;
 }
+#darkMode {
+    cursor: pointer;
+}
 
 @media (max-width: 375px) {
     .Navbar h2 {
